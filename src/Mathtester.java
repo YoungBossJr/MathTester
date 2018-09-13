@@ -7,10 +7,10 @@ public class Mathtester {
 
 
 
-        firstWord = "Super";
-        secondWord = "Man";
-        firstNumber = 5;
-        secondNumber = 10;
+        firstWord = "Dragon";
+        secondWord = "Ball";
+        firstNumber = 25;
+        secondNumber = 30;
         total = firstNumber+secondNumber;
         System.out.println(total);
         total = total + 10;
