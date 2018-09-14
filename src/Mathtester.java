@@ -9,8 +9,8 @@ public class Mathtester {
 
         firstWord = "Dragon";
         secondWord = "Ball";
-        firstNumber = 25;
-        secondNumber = 30;
+        firstNumber = 7;
+        secondNumber = 4;
         total = firstNumber+secondNumber;
         System.out.println(total);
         total = total + 10;
@@ -20,14 +20,14 @@ public class Mathtester {
 
 
 
-        /*System.out.println(firstWord+secondWord);
+        System.out.println(firstWord+secondWord);
         System.out.println(firstWord+(firstNumber+secondNumber));
-        System.out.println("firstNumber + secondNumber is"+ (firstNumber+secondNumber));
-        System.out.println("firstNumber - secondNumber is"+ (firstNumber-secondNumber));
-        System.out.println("secondNumber / firstNumber is"+ (secondNumber/firstNumber));
-        System.out.println("firstNumber * secondNumber is"+ (firstNumber*secondNumber));
-        System.out.println("The modulus of the secondNumber by the firstNumber " +
-                "is"+ (secondNumber%firstNumber));*/
+       System.out.println("firstNumber + secondNumber is"+ (firstNumber+secondNumber));
+       System.out.println("firstNumber - secondNumber is"+ (firstNumber-secondNumber));
+       System.out.println("secondNumber / firstNumber is"+ (secondNumber/firstNumber));
+       System.out.println("firstNumber * secondNumber is"+ (firstNumber*secondNumber));
+       System.out.println("The modulus of the secondNumber by the firstNumber " +
+                "is"+ (secondNumber%firstNumber));
 
 
 
