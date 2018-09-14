@@ -9,8 +9,8 @@ public class Mathtester {
 
         firstWord = "Dragon";
         secondWord = "Ball";
-        firstNumber = 7;
-        secondNumber = 4;
+        firstNumber = 3;
+        secondNumber = 10;
         total = firstNumber+secondNumber;
         System.out.println(total);
         total = total + 10;
